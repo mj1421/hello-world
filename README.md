@@ -1,2 +1,1 @@
-# hello-world
-test of github services
+this is just a test of Git
